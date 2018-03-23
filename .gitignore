@@ -1,7 +1,9 @@
-.*
+'.*
 !.cargo
 !.travis
 cachegrind.*
 perf.*
 target
 manual/book
+*.iml
+/.idea/
